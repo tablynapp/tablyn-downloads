@@ -15,7 +15,7 @@ The evaluation version can build, solve, and preview a timetable. A Tablyn licen
 
 ## Current release
 
-Tablyn 1.2.4
+Tablyn 1.2.5
 
 ## Verify the installer
 
