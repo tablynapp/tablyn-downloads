@@ -29,4 +29,4 @@ Get-FileHash .\Tablyn-Setup.exe -Algorithm SHA256
 
 For installation or licensing assistance, use the support contact listed on the official Tablyn website.
 
-Copyright © 2026 Tablyn. All rights reserved.
+Copyright © 2026 Tablyn Timetables. All rights reserved.
